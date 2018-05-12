@@ -1,4 +1,8 @@
 _repo: Beaumont-Fletcher-s-Works-10-of-10-Thierry-and-Theodoret-The-Woman-Hater-Nice-Valour-The-Hone__50096
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50096-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Beaumont, Francis
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4606
     wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50096#Beaumont-Fletcher-s-Works-10-of-10-Thierry-and-Theodoret-The-Woman-Hater-Nice-Valour-The-Hone_
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
